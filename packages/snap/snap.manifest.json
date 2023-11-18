@@ -1,13 +1,13 @@
 {
   "version": "0.1.0",
-  "description": "An example Snap written in TypeScript.",
-  "proposedName": "TypeScript Example",
+  "description": "Ready to impact lives and biodiversity?",
+  "proposedName": "Snap Donate",
   "repository": {
     "type": "git",
     "url": "https://github.com/MetaMask/template-snap-monorepo.git"
   },
   "source": {
-    "shasum": "+yxc//3N4tJVEtfyVYFTdbSDFNWZDcGe1kNT/lsjb2M=",
+    "shasum": "aLlaO3fi998VyrzQF+UfJ+LJi2gDLPZBxti0jv+xm10=",
     "location": {
       "npm": {
         "filePath": "dist/bundle.js",
