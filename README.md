@@ -35,3 +35,5 @@ Receive a transaction on Sepolia Testnet of minimum 1 ETH to see the snap in act
 
 ![WhatsApp Image 2023-11-18 at 21 22 18_3dbf2d5e](https://github.com/ucemm/ETHGlobal.Hackathon.SnapDonate/assets/49862451/275ec396-5042-4cc5-a7df-cec7dc06a836)
 
+## Usage Video
+https://github.com/ucemm/ETHGlobal.Hackathon.SnapDonate/assets/49862451/f68f21c1-c80a-4cd8-9bed-37a64e8bb652
